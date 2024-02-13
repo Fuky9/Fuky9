@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fuky9
 - 👀 I’m interested in back-end development, programming, sport(mostly soccer) and pharmacy
 - 🌱 I’m currently learning back-end development from Meta back-end certificate course
-- 💞️ I’m looking to collaborate on any project to gain experience in back-end development (Actually I am learning Python)
+- 💞️ I’m looking to collaborate on any project to gain experience in back-end development (Actually I am learning Python, Django, DRF and basics of frontend technologies: HTML, CSS and JavaScript)
 - 📫 How to reach me: lukasfukan6@gmail.com
 
 <!---
