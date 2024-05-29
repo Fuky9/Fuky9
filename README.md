@@ -1,6 +1,6 @@
 # Hi there, I'm Fuky9 👋
 
-Welcome to my GitHub profile! I'm a pharmacist with a passion for coding. I love sports, nature, hardening, good food and exploring new technologies.
+Welcome to my GitHub profile! I'm a pharmacist with a passion for coding. I love sports, nature, hardening in icy water, delicious food and exploring new technologies.
 
 ## About Me
 
