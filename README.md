@@ -27,6 +27,8 @@ I enjoy developing web applications and working with a variety of modern technol
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![cURL](https://img.shields.io/badge/cURL-0746A6?style=for-the-badge&logo=curl&logoColor=white)
 
 ## Contact Me
 
