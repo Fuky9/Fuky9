@@ -29,6 +29,7 @@ I enjoy developing web applications and working with a variety of modern technol
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![cURL](https://img.shields.io/badge/cURL-0746A6?style=for-the-badge&logo=curl&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Contact Me
 
